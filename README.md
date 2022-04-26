@@ -4,4 +4,4 @@ This is a simple readme file
 
 ## Heading 2
 
-This is bound the cause trouble
+Just something going on
