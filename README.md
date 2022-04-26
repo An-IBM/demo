@@ -1,5 +1,3 @@
-## Heading 1
+## Demo Project README
 
-Basic readme file :)
-
-i <3 pickles lol
+This is a simple readme file
